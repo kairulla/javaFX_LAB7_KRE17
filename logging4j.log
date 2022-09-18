@@ -1,0 +1,67 @@
+2022-09-18 14:09:04 [INFO ] GUIController:76 - Start log4j
+2022-09-18 14:09:04 [INFO ] GUIController:77 - Hi Logger info!
+2022-09-18 14:09:04 [WARN ] GUIController:78 - Warrning!
+2022-09-18 14:09:04 [ERROR] GUIController:79 - Error!
+2022-09-18 14:09:04 [FATAL] GUIController:80 - Fatal error!
+2022-09-18 14:09:04 [INFO ] GUIController:81 - End log4j
+2022-09-18 19:58:14 [INFO ] GUIController:81 - Start log4j
+2022-09-18 19:58:14 [INFO ] GUIController:82 - Hi Logger info!
+2022-09-18 19:58:14 [WARN ] GUIController:83 - Warrning!
+2022-09-18 19:58:14 [ERROR] GUIController:84 - Error!
+2022-09-18 19:58:14 [FATAL] GUIController:85 - Fatal error!
+2022-09-18 19:58:14 [INFO ] GUIController:86 - End log4j
+2022-09-18 19:58:14 [INFO ] GUIController:87 - A = 1, B = 2, X = -1
+2022-09-18 20:01:21 [INFO ] GUIController:87 - A = 1, B = 2, X = -1
+2022-09-18 20:01:21 [WARN ] GUIController:88 - ОТВЕТ = -1.0
+2022-09-18 20:05:45 [FATAL] GUIController:46 - Сработал защищённый блок, A = , B = , X = 
+2022-09-18 20:05:45 [INFO ] GUIController:89 - A = , B = , X = 
+2022-09-18 20:05:45 [WARN ] GUIController:90 - ОТВЕТ = 0.0
+2022-09-18 20:06:28 [FATAL] GUIController:46 - A = прпрпр, B = , X = 
+2022-09-18 20:06:28 [INFO ] GUIController:89 - A = , B = , X = 
+2022-09-18 20:06:28 [WARN ] GUIController:90 - ОТВЕТ = 0.0
+2022-09-18 20:08:08 [FATAL] GUIController:46 - Введены неверные данные!!!
+2022-09-18 20:08:08 [INFO ] GUIController:89 - A = , B = , X = 
+2022-09-18 20:08:08 [WARN ] GUIController:90 - ОТВЕТ = 0.0
+2022-09-18 20:09:28 [FATAL] GUIController:46 - Введены неверные данные!!!
+2022-09-18 20:09:28 [INFO ] GUIController:61 - A = , B = , X = 
+2022-09-18 20:09:28 [WARN ] GUIController:62 - ОТВЕТ = 0.0
+2022-09-18 20:11:44 [FATAL] GUIController:46 - Введены неверные данные!!!
+2022-09-18 20:11:44 [INFO ] GUIController:84 - A = 0.0, B = 0.0, X = 0.0
+2022-09-18 20:11:44 [WARN ] GUIController:85 - ОТВЕТ = 0.0
+2022-09-18 20:12:15 [FATAL] GUIController:46 - Введены неверные данные!!!
+2022-09-18 20:12:15 [INFO ] GUIController:84 - A = 0.0, B = 0.0, X = 0.0
+2022-09-18 20:12:15 [WARN ] GUIController:85 - ОТВЕТ = 0.0
+2022-09-18 20:15:45 [FATAL] GUIController:46 - Введены неверные данные!!!
+2022-09-18 20:15:45 [INFO ] GUIController:84 - A = 0.0, B = 0.0, X = 0.0
+2022-09-18 20:15:45 [WARN ] GUIController:85 - ОТВЕТ = 0.0
+2022-09-18 20:17:28 [FATAL] GUIController:46 - Введены неверные данные!!!
+2022-09-18 20:17:28 [INFO ] GUIController:84 - A = 0.0, B = 0.0, X = 0.0
+2022-09-18 20:17:28 [WARN ] GUIController:85 - ОТВЕТ = 0.0
+2022-09-18 20:18:07 [FATAL] GUIController:46 - Введены неверные данные!!!
+2022-09-18 20:18:07 [INFO ] GUIController:84 - A = 0.0, B = 0.0, X = 0.0
+2022-09-18 20:18:07 [WARN ] GUIController:85 - ОТВЕТ = 0.0
+2022-09-18 20:19:08 [FATAL] GUIController:46 - Введены неверные данные!!!
+2022-09-18 20:19:08 [INFO ] GUIController:84 - A = 0.0, B = 0.0, X = 0.0
+2022-09-18 20:19:08 [WARN ] GUIController:85 - ОТВЕТ = 0.0
+2022-09-18 20:20:06 [FATAL] GUIController:50 - Введены неверные данные!!!
+2022-09-18 20:20:06 [INFO ] GUIController:84 - A = 0.0, B = 0.0, X = 0.0
+2022-09-18 20:20:06 [WARN ] GUIController:85 - ОТВЕТ = 0.0
+2022-09-18 20:24:37 [FATAL] GUIController:52 - Введены неверные данные!!!
+2022-09-18 20:24:37 [INFO ] GUIController:74 - A = 0.0, B = 0.0, X = 0.0
+2022-09-18 20:24:37 [WARN ] GUIController:75 - ОТВЕТ = 0.0
+2022-09-18 20:26:03 [FATAL] GUIController:52 - Введены неверные данные!!!
+2022-09-18 20:26:03 [INFO ] GUIController:74 - A = 0.0, B = 0.0, X = 0.0
+2022-09-18 20:26:03 [WARN ] GUIController:75 - ОТВЕТ = 0.0
+2022-09-18 20:33:33 [FATAL] GUIController:52 - Введены неверные данные!!!
+2022-09-18 20:33:33 [INFO ] GUIController:74 - A = 0.0, B = 0.0, X = 0.0
+2022-09-18 20:33:33 [WARN ] GUIController:75 - ОТВЕТ = 0.0
+2022-09-18 20:40:56 [FATAL] GUIController:54 - Введены неверные данные!!!
+2022-09-18 20:40:56 [INFO ] GUIController:76 - A = 0.0, B = 0.0, X = 0.0
+2022-09-18 20:40:56 [WARN ] GUIController:77 - ОТВЕТ = 0.0
+2022-09-18 20:45:14 [INFO ] GUIController:76 - A = 1.0, B = 2.0, X = -1.0
+2022-09-18 20:45:14 [WARN ] GUIController:77 - ОТВЕТ = -1.0
+2022-09-18 20:49:42 [INFO ] GUIController:76 - A = 1.0, B = 2.0, X = -1.0
+2022-09-18 20:49:42 [WARN ] GUIController:77 - ОТВЕТ = -1.0
+2022-09-18 20:51:30 [FATAL] GUIController:54 - Введены неверные данные!!!
+2022-09-18 20:51:30 [INFO ] GUIController:76 - A = 0.0, B = 0.0, X = 0.0
+2022-09-18 20:51:30 [WARN ] GUIController:77 - ОТВЕТ = 0.0
